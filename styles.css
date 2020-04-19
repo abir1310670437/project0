@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+    color: aqua;
+    
+}
+p{
+    color: blueviolet;
+}
+div{
+    font-size: 20px;
+    background-color: bisque;
+    align-content: center;
+    width: 30%;
+    margin: 30px;
+    padding: 5px;
+    border: 10px solid black;
+    
+}
